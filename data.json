@@ -1,0 +1,100 @@
+{
+    "promo_8": {
+      "Paris": [
+        {
+          "titre": "Movoo",
+          "img": "assets/movoo.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "La cagette",
+          "img": "assets/cagette.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "Freedom Book",
+          "img": "assets/freedom-book.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        }
+      ],
+      "Lyon": [
+        {
+          "titre": "Lyon 1",
+          "img": "assets/movoo.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "Lyon 2",
+          "img": "assets/cagette.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "Lyon 3",
+          "img": "assets/freedom-book.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        }
+      ],
+      "St_Etienne": [
+        {
+          "titre": "test2",
+          "img": "assets/movoo.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "La cagette",
+          "img": "assets/cagette.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        },
+        {
+          "titre": "Freedom Book",
+          "img": "assets/freedom-book.png",
+          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+        }
+      ]
+    },
+    "promo_7": {
+      "Paris": [
+        {
+          "titre": "Movoo",
+          "lien": "assets/movoo.png"
+        },
+        {
+          "titre": "La cagette",
+          "lien": "assets/cagette.png"
+        },
+        {
+          "titre": "Freedom Book",
+          "lien": "assets/freedom-book.png"
+        }
+      ],
+      "Lyon": [
+        {
+          "titre": "Movoo",
+          "lien": "assets/movoo.png"
+        },
+        {
+          "titre": "La cagette",
+          "lien": "assets/cagette.png"
+        },
+        {
+          "titre": "Freedom Book",
+          "lien": "assets/freedom-book.png"
+        }
+      ],
+      "St_Etienne": [
+        {
+          "titre": "Movoo",
+          "lien": "assets/movoo.png"
+        },
+        {
+          "titre": "La cagette",
+          "lien": "assets/cagette.png"
+        },
+        {
+          "titre": "Freedom Book",
+          "lien": "assets/freedom-book.png"
+        }
+      ]
+    }
+  }
+  
