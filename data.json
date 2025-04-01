@@ -36,19 +36,22 @@
       ],
       "St_Etienne": [
         {
-          "titre": "test2",
+          "titre": "Movoo",
           "img": "assets/movoo.png",
-          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+          "lien":"https://ludivineboc.github.io/movoo-latoile/",
+          "equipe": "Sebastien VELASQUEZ, Kim Triny THOMAS-BRONDEAU, Abdoulashwin SRIDHAR, Elliott LANZA"
         },
         {
           "titre": "La cagette",
           "img": "assets/cagette.png",
-          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+          "lien":"https://ludivineboc.github.io/agri-la-toile/",
+          "equipe": "Sebastien VELASQUEZ, Abdoul, Kim-triny, Elliott LANZA"
         },
         {
           "titre": "Freedom Book",
           "img": "assets/freedom-book.png",
-          "lien":"https://ludivineboc.github.io/movoo-latoile/"
+          "lien":"https://github.com/ludivineboc/bibli-virtuelle-latoile",
+          "equipe": "Leelou MOULIN, Mahidine ZENNAF, Léo HAMOUDI, Clément COLLIN, Anthony BRU POLICARD"
         }
       ]
     },
@@ -97,4 +100,6 @@
       ]
     }
   }
+  
+
   

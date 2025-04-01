@@ -31,9 +31,11 @@ function afficher(data) {
   lyon.forEach((projet) => {
     let titre = projet.titre;
     let lien = projet.lien;
-
+    let equipe = projet.equipe;
     item += `
-            <li><a href="${lien}"> ${titre} </a></li>
+            <li><a href="${lien}"> ${titre} </a <br>
+            <p> ${equipe}</p>
+            </li>
             `;
   });
 
@@ -44,10 +46,13 @@ function afficher(data) {
   paris.forEach((projet) => {
     let titre = projet.titre;
     let lien = projet.lien;
+    let equipe = projet.equipe;
 
     item += `
-        <li><a href="${lien}"> ${titre} </a></li>
-        `;
+    <li><a href="${lien}"> ${titre} </a <br>
+    <p> ${equipe}</p>
+    </li>
+    `;
   });
 
   listProjectParis.innerHTML += item;
@@ -57,12 +62,23 @@ function afficher(data) {
   ste.forEach((projet) => {
     let titre = projet.titre;
     let lien = projet.lien;
+    let equipe = projet.equipe;
+
 
     item += `
-            <li><a href="${lien}"> ${titre} </a></li>
-            `;
+    <li><a href="${lien}"> ${titre} </a <br>
+    <p> ${equipe}</p>
+    </li>
+    `;
   });
 
   listProjectSte.innerHTML += item;
   item = ``;
 }
+
+
+function Hello() {
+  return <p>Welcome tu react</p>
+  }
+  
+  

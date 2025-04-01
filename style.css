@@ -27,6 +27,9 @@
     width: 60%;
 }
 
+.w30 {
+    width: 30%;
+}
 .w40 {
     width: 40%;
 }
@@ -121,8 +124,36 @@ p {
 .return{
     text-decoration: none;
 }
+.projectListSection {
+    margin: auto;
+}
+
+.projectListSection div {
+    background-color: var(--pastelRed);
+    padding: 20px;
+    border-radius: 20px;
+}
 
 
+.projectListSection ul  {
+    list-style-type: none;
+    margin-top: 30px;
+}
+
+.projectListSection li {
+    margin-bottom: 10px;
+}
+
+.projectListSection ul p  {
+    font-style: italic;
+    font-size: 0.7em;
+    color: #5b5b5b;
+}
+
+.projectListSection a {
+    text-decoration: none;
+    font-weight: 600;
+}
 
 
 /* //////// MEDIA QUERIES //////// */ 
@@ -158,6 +189,8 @@ p {
     main {
         padding: 20px;
     }
+
+  
 
 
 }
